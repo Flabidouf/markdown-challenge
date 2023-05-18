@@ -1,5 +1,5 @@
 # MARIUS WASEIGE
 
-**L'art est l'expression par l'Homme de la joie qu'il tire de son travail**, William Morris 1889.
+**"L'art est l'expression par l'Homme de la joie qu'il tire de son travail"**, William Morris 1889.
 
-![Photo de moi](/Users/mariuswaseige/Downloads/markdown-challenge/PlanetMarius.jpg)
+![Photo de moi](PlanetMarius.jpg)
