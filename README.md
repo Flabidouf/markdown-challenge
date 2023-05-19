@@ -8,4 +8,4 @@
 
 Birthday | Favorite Color | Favorite food | Pineapple on pizza ?
 ---------|----------------|---------------|---------------------
-09/11/1999 | Orange | Boulets sauce lapin à la frite mayo | <input type="checkbox" /> YES <input type="checkbox" /> NO 
+09/11/1999 | Orange | Boulets sauce lapin à la frite mayo | <ul><li>[ ] YES</li><li>[x] NO</li></ul>
