@@ -13,6 +13,9 @@ Birthday | Favorite Color | Favorite food | Pineapple on pizza ?
 ### Hobbies 
  
 - Music (Listening and making)
+    - Parliament/Funkadelic
+    - Paul McCartney
+    - Electric Light Orchestra
 - Cinema (Used to work on amateur films)
     - The Holy Mountain - Alejandro Jodorowsky
     - All That Jazz - Bob Fosse
@@ -21,7 +24,12 @@ Birthday | Favorite Color | Favorite food | Pineapple on pizza ?
 - Reading 
 
 ### You can always count on me when :
-You need someone to have a laugh
-You need someone to be purposedly awkward
-You need to speak your mind 
-You want to share your music or movie references
+- You need someone to have a laugh
+- You need someone to be purposedly awkward
+- You need to speak your mind 
+- You want to share your music or movie references
+
+### A funny story
+Once, in my last year of secondary school, I had to play piano for my school's Christmas mass. I organized a prank where I would play "Still Dre" by Dr Dre at the end of my performance. I did it and it was quite funny to hear this tune in a church.
+
+#### TL;DR : I played Still Dre by Dr Dre in a church as a Christmas mass song.
