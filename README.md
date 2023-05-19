@@ -11,7 +11,7 @@ Birthday | Favorite Color | Favorite food | Pineapple on pizza ?
 09/11/1999 | Orange | Boulets sauce lapin à la frite mayo | <ul><li>[ ] YES</li><li>[x] NO</li></ul>
 
 ### Hobbies 
-<ul> 
+ 
 - Music (Listening and making)
 - Cinema (Used to work on amateur films)
     - The Holy Mountain - Alejandro Jodorowsky
@@ -19,4 +19,3 @@ Birthday | Favorite Color | Favorite food | Pineapple on pizza ?
     - The Conversation - Francis F. Coppola
 - Videogames
 - Reading 
-</ul>
