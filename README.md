@@ -40,4 +40,4 @@ Once, in my last year of secondary school, I had to play piano for my school's C
 
 #### TL;DR : I played Still Dre by Dr Dre in a church as a Christmas mass song.
 
-<< [Manon](https://github.com/Manon98446/markdown-challenge) || Marius Waseige ||[Nathan](https://github.com/NathanLombardelli/markdown-challenge) >>
+<< [Manon](https://github.com/Manon98446/markdown-challenge) || Marius Waseige || [Nathan](https://github.com/NathanLombardelli/markdown-challenge) >>
