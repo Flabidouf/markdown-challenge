@@ -4,7 +4,7 @@
 
 <img src="PlanetMarius.jpg" alt="Marius" width="250"/>
 
-### 
+### "Sunglasses on a stick"
 
 Birthday | Favorite Color | Favorite food | Pineapple on pizza ?
 ---------|----------------|---------------|---------------------
@@ -19,3 +19,9 @@ Birthday | Favorite Color | Favorite food | Pineapple on pizza ?
     - The Conversation - Francis F. Coppola
 - Videogames
 - Reading 
+
+### You can always count on me when :
+You need someone to have a laugh
+You need someone to be purposedly awkward
+You need to speak your mind 
+You want to share your music or movie references
