@@ -1,6 +1,6 @@
 # MARIUS WASEIGE
 
-*"L'art est l'expression par l'Homme de la joie qu'il tire de son travail"*, William Morris 1889.
+*"Art is the expression of man's pleasure in labour."*, William Morris 1889.
 
 <img src="PlanetMarius.jpg" alt="Marius" width="250"/>
 
@@ -21,7 +21,13 @@ Birthday | Favorite Color | Favorite food | Pineapple on pizza ?
     - All That Jazz - Bob Fosse
     - The Conversation - Francis F. Coppola
 - Videogames
+    - Metal Gear Solid series
+    - Death Stranding
+    - God of War Ragnarök
 - Reading 
+    - Lettre à un Jeune Poête (Rainer Maria Rilke)
+    - L'art et l'Artisanat (William Morris)
+    - Melmoth (Charles Robert Maturin)
 
 ### You can always count on me when :
 - You need someone to have a laugh
@@ -33,3 +39,5 @@ Birthday | Favorite Color | Favorite food | Pineapple on pizza ?
 Once, in my last year of secondary school, I had to play piano for my school's Christmas mass. I organized a prank where I would play "Still Dre" by Dr Dre at the end of my performance. I did it and it was quite funny to hear this tune in a church.
 
 #### TL;DR : I played Still Dre by Dr Dre in a church as a Christmas mass song.
+
+<< [Manon](https://github.com/Manon98446/markdown-challenge) || Marius Waseige ||[Nathan](https://github.com/NathanLombardelli/markdown-challenge) >>
